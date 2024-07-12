@@ -1,0 +1,4 @@
+- 👋 Hola, soy Gustavo Alonso 
+- 👀 Me interesan las aplicaciones móviles, backend y las bases de datos
+- 🌱 Actualmente estoy aprendiendo desarrollo avanzado de Android e integración de bases de datos en la nube
+- 📫 Cómo contactarme: gus04tavo17@gmail.com | https://www.linkedin.com/in/gustavo-farfan-b0245a172/
